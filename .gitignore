@@ -1,5 +1,5 @@
 # Node.js
-node_modules/
+api/node_modules
 .env
 
 # Logs
@@ -13,3 +13,5 @@ Thumbs.db
 # Others
 dist/
 build/
+
+client/node_modules
