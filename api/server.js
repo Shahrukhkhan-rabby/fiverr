@@ -30,7 +30,7 @@ try {
 // Middleware
 app.use(
   cors({
-    origin: "http://localhost:5173", // Replace with your frontend's URL
+    origin: "https://myfiver.netlify.app/", // Replace with your frontend's URL
     credentials: true,
   })
 );
